@@ -1,0 +1,10 @@
+*.conf
+/tmp
+.DS_Store
+.idea/
+.sass-cache
+*~
+node_modules
+*.out
+*.iml
+atlassian-ide-plugin.xml
